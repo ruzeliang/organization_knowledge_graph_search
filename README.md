@@ -34,5 +34,5 @@ http://localhost:2644/
 
 ### click "Excute" to search
 
-![Alt text](search.png)
+<img src="search.png" width="350">
 
