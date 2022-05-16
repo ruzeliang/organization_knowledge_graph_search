@@ -30,9 +30,10 @@ http://localhost:2644/
 
 ### input the company name you want to search from the knowledge graph
 
-![Alt text](input%20interface.png)
+<img src="input%20interface.png" width="600">
+
 
 ### click "Excute" to search
 
-<img src="search.png" width="350">
+<img src="search.png" width="600">
 
