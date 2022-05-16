@@ -1,10 +1,12 @@
-# organization_knowledge_graph_search
+# Organization Knowledge Graph Search Engine
 
 This is a knowledge graph of organizations ready for search. The knowledge graph is built by 
 
 * crawling data from open-source websites, and 
 * using advanced NLP and knowledge extraction and alignment algorithms to transform the webpages to knowledge graph
 * storing the knowledge in a Elasticsearch to allow the users to search the organizations by names
+
+To use it: 
 
 ### 1. pull the docker from the docker hub
 
