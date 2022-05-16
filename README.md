@@ -1,12 +1,12 @@
 # organization_knowledge_graph_search
 
-### pull the docker from the docker hub
+### 1. pull the docker from the docker hub
 
 ```bash
 docker pull ruzeliang/organization_search:1.0.1
 ```
 
-### run the docker
+### 2. run the docker
 
 ```bash
 docker run -it ^
@@ -20,20 +20,21 @@ ruzeliang/organization_search:1.0.1
 
 the docker will start the service of the knowledge graph for search, wait for a few minutes, until you see the following
 
-![Alt text](service%20ready.png)
+<img src="service%20ready.png" width="600">
 
 
 
-### open the input interface of FLASK 
+
+### 3. open the input interface of FLASK 
 
 http://localhost:2644/
 
-### input the company name you want to search from the knowledge graph
+### 4. input the company name you want to search from the knowledge graph
 
 <img src="input%20interface.png" width="600">
 
 
-### click "Excute" to search
+### 5. click "Excute" to search
 
 <img src="search.png" width="600">
 
