@@ -20,6 +20,7 @@ ruzeliang/organization_search:1.0.1
 
 the docker will start the service of the knowledge graph for search, wait for a few minutes, until you see the following
 
+![Alt text](service%20ready.png)
 
 
 
