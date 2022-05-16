@@ -44,4 +44,4 @@ http://localhost:5611/browser/
 
 ### 7. see the search results of the knowledge graph for the company "Upwork"
 
-<img src="company%20knowlege%20graph%20linkedin.png" width="800">
+<img src="knowledge%20graph%20search%20result.png" width="800">
