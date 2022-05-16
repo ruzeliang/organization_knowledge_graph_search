@@ -17,3 +17,13 @@ docker run -it ^
 -p 0.0.0.0:2644:9000 ^
 ruzeliang/organization_search:1.0.1
 ```
+
+the docker will start the service of the knowledge graph for search, wait for a few minutes, until you see the following
+
+
+
+
+### open the input interface of FLASK 
+
+http://localhost:2644/
+
