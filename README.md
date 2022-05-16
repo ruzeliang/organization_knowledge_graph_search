@@ -31,10 +31,15 @@ http://localhost:2644/
 
 ### 4. input the company name you want to search from the knowledge graph
 
-<img src="input%20interface.png" width="600">
+<img src="input%20interface.png" width="500">
 
 
 ### 5. click "Excute" to search
 
 <img src="search.png" width="600">
 
+### 6. open the search result interface from 
+
+http://localhost:5611/browser/
+
+### 7. see the search results of the knowledge graph for the company "Upwork"
