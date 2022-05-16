@@ -28,3 +28,11 @@ the docker will start the service of the knowledge graph for search, wait for a 
 
 http://localhost:2644/
 
+### input the company name you want to search from the knowledge graph
+
+![Alt text](input%20interface.png)
+
+### click "Excute" to search
+
+![Alt text](search.png)
+
