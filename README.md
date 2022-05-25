@@ -39,7 +39,7 @@ http://localhost:2644/
 
 ### 4. input the company name you want to search from the knowledge graph
 
-<img src="input%20interface.png" width="500">
+<img src="input_interface.png" width="500">
 
 
 ### 5. click "Excute" to search
