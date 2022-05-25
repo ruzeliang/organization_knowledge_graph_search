@@ -5,8 +5,8 @@ This is a knowledge graph of organizations ready for search and entity linking. 
 * crawling data from open-source websites, and 
 * using advanced NLP and knowledge extraction and alignment algorithms to transform the webpages to knowledge graph
 * storing the knowledge in a Elasticsearch to allow the users to 
-** search the organizations by names
-** link the entities mentioned in a free text
+- search the organizations by names
+- link the entities mentioned in a free text
 
 To use it: 
 
