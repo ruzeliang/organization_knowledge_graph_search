@@ -11,7 +11,7 @@ To use it:
 ### 1. pull the docker from the docker hub
 
 ```bash
-docker pull ruzeliang/organization_search:1.0.1
+docker pull ruzeliang/organization_search:1.0.2
 ```
 
 ### 2. run the docker
@@ -22,8 +22,8 @@ docker run -it ^
 -p 0.0.0.0:3641:3641 ^
 -p 0.0.0.0:5611:5611 ^
 -p 0.0.0.0:4971:4971 ^
--p 0.0.0.0:2644:9000 ^
-ruzeliang/organization_search:1.0.1
+-p 0.0.0.0:2644:2644 ^
+ruzeliang/organization_search:1.0.2
 ```
 
 the docker will start the service of the knowledge graph for search, wait for a few minutes, until you see the following
